@@ -65,6 +65,7 @@
 + Java JDK 17 
 + Eclipse EE (Enterprise Edition)
 + Tomcat v9.0
++ MySQL Server
 + MySQL Workbench 
 
 # ========== Dummy Database ScreenShot ===========
@@ -88,6 +89,29 @@
 
 ![db5](https://user-images.githubusercontent.com/33785415/233819759-2b7a91f3-19f8-48fc-9e71-33973514a086.png)
 
+
+# ==== Importing and Running The Project Through Eclipse EE ===
++ Step 1: Open Eclipse Enterprise Edition. [Install, if not already installed.]
+
++ Step 2: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: https://github.com/shashirajraja/onlinebookstore.git> Select master Branch > Next > Next > Finish.
+
++ Step 3. a: Go inside src/main/resources > [in.bookstore.db] and update the value of database details as per your usage, like db.driver, db.host, db.username and       db.password according to your installed mysql/postgresql admin user credentials.
+
++ Step 4: Click on Project > Dynamic Web Project > Set Tomcat Version> Next > Next .
+
++ Step 5: Right Click On Project > Build Path > Configure Build Path >Set Sql jar> Libraries > Remove and Update Any Libraries if Red Mark Exists > Finish.
+
++ Step 6: [Only If Tomcat Server is not configured in Eclipse] : Right Click On Project > Run As > Run On Server > Select Tomcat V9.0 > (Select Tomcat V9.0               Installation Location If Asked) Next > Add BookStoreApp > Finish.
+
++ Step 7: In The Server Tab > Double Click On Tomcat Server > Close And Save.
+
++ Step 8: Right Click On Project > Run As > Run On Server > Select Tomcat v9.0 > Next > Add All> Done.
+
++ Step 9: Check Running The Site At http://localhost:9999/BookStoreApp
+
++ Step 10: Default Username And Password For Admin Is "admin@gmail.com" And "admin"
+
++ Step 11: The default Username And Password For User Is "suraj4881@gmail.com" And "123456"(And you also set your Own User Depends own you how to configb Database)
 
 
 
