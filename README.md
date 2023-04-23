@@ -15,3 +15,12 @@
 ![user](https://user-images.githubusercontent.com/33785415/233818327-9c46ea7a-3f67-4c47-bcb8-7114f661dd92.png)
 + Cart-Checkout
 ![cart](https://user-images.githubusercontent.com/33785415/233818406-1abb1ca7-6739-4070-9c79-6313b5165626.png)
+
+#This Website is built for following purpose:-
++ For Selling New Books Online.
++ For Selling Old Books Online.
++ Maintaining books selling history.
++ Adding and managing books.
++ User Friendly.
++ For Implementation of Http Servlets in Java.
++ This is project developed using Java,jsp,jstl,Jdbc,and Servlets and also use Bootstrap.
