@@ -72,9 +72,9 @@
 			<a href="setting.jsp" class="btn btn-light my-2 my-sm-0 ml-2" type="submit">
 				<i class="fa-solid fa-gear"></i> Setting
 			</a>
-			<button class="btn btn-light my-2 my-sm-0 ml-2" type="submit">
+			<a href="helpline.jsp" class="btn btn-light my-2 my-sm-0 ml-2" type="submit">
 				<i class="fa-solid fa-phone"></i> Contact Us
-			</button>
+			</a>
 		</form>
 	</div>
 </nav>
