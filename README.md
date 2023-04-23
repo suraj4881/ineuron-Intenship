@@ -43,6 +43,18 @@
 + Old Books Selling.
 + Order Tracing.
 
+# Technologies used:-
+## Front-End Development:
++ HTML
++ CSS
++ BootStrap
+## Back-End Development:
++ Java [JDK 17]
++ JDBC
++ Jsp,jstl
++ Servlet
+
+
 
 
 
