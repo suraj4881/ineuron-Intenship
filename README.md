@@ -31,3 +31,21 @@
 + Remove Books.
 + Update Books.
 + Checking Order.
+
+# Users Have Following Access for this online store site:-
++ Create New Account or Register.
++ Login.
++ View Available Books.
++ Select Books to Buy.
++ Select Books Quantity.
++ Buy Books.
++ Get Payment.
++ Old Books Selling.
++ Order Tracing.
+
+
+
+
+
+
+
