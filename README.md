@@ -57,7 +57,7 @@
 # Database:
 + MySql
 
-# ================ Software And Tools Required ================
+# ======= Software And Tools Required ========
 + Git 
 + Java JDK 17 
 + Eclipse EE (Enterprise Edition)
