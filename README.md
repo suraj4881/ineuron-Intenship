@@ -72,6 +72,23 @@
 
 ![db](https://user-images.githubusercontent.com/33785415/233819381-7f0dce13-5751-4dab-90a7-4dcbb43007ac.png)
 
++ TableName: book_details
+
+![db2](https://user-images.githubusercontent.com/33785415/233819638-647aff7a-5ad7-4b5a-91c9-b04923813d53.png)
+
++ TableName: book_order
+
+![db3](https://user-images.githubusercontent.com/33785415/233819668-ccea37f4-102e-4af1-9dce-36274ca45608.png)
+
++ TableName: cart
+
+![db4](https://user-images.githubusercontent.com/33785415/233819695-9ff81e48-48c4-474a-83b9-c169d89057ca.png)
+
++ TableName: user
+
+![db5](https://user-images.githubusercontent.com/33785415/233819759-2b7a91f3-19f8-48fc-9e71-33973514a086.png)
+
+
 
 
 
