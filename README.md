@@ -155,9 +155,9 @@
 ![a8](https://user-images.githubusercontent.com/33785415/233820971-21ac51b8-3d3d-402e-a6a9-5f50ea7aea26.png)
 
 # Suggestions and project improvement ideas are welcomed!
-Thanks a lot,
-Project Leader
-Suraj Kumar
++ Thanks a lot
++ Project Leader
++ Suraj Kumar
 
 
 
