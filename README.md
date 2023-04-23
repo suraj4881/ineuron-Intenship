@@ -113,8 +113,14 @@
 
 + Step 11: The default Username And Password For User Is "suraj4881@gmail.com" And "123456"(And you also set your Own User Depends own you how to configb Database)
 
+# FAQ:
 
++ Question:1 Unable to Connect to Database?
++ Answer: Please check you have installed the mysql correctly and have updated the correct db details in in.bookstore.db. Also you can try doing refresh and update the   project and restart.
 
+## Note:- Considering this as a Sample Project, we have considered of web security but not much validation I think in this project Not Otp verfication and link given      verfication in future I will Try to Add them.
+
+# Some Screenshots for the project:
 
 
 
