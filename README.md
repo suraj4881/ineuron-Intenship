@@ -5,3 +5,6 @@
 # About
 + A user-friendly Online Bookstore project in which users can log in or register, view the available books, select books along with their quantity, and buy them. Users     can also get payment receipts after successful payment. The project can also be used by the administrator, who can add new books, remove books.to sell both new and       used books. Consider the following scenario: Someone buys a book, and after finishing it, they should be able to sell it again using
   our application
+
+# ScreenShot
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an BookStore.](C:\Users\suraj\OneDrive\Pictures\Saved Pictures\home.png)
