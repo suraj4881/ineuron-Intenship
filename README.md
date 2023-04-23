@@ -42,6 +42,9 @@
 + Get Payment.
 + Old Books Selling.
 + Order Tracing.
++ Edit Profile.
++ Contact us.
++ Search Item.
 
 # Technologies used:-
 ## Front-End Development:
@@ -64,7 +67,9 @@
 + Tomcat v9.0
 + MySQL Workbench 
 
-
+# ========== Dummy Database ScreenShot ===========
++ Create Database and Table As Shown Below
+![db](https://user-images.githubusercontent.com/33785415/233819381-7f0dce13-5751-4dab-90a7-4dcbb43007ac.png)
 
 
 
