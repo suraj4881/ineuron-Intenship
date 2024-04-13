@@ -93,7 +93,7 @@
 # ==== Importing and Running The Project Through Eclipse EE ===
 + Step 1: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
-+ Step 2: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: https://github.com/shashirajraja/onlinebookstore.git> Select master Branch > Next > Next > Finish.
++ Step 2: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: https://github.com/suraj4881/ineuron-Intenship/> Select master Branch > Next > Next > Finish.
 
 + Step 3. a: Go inside src/main/resources > [in.bookstore.db] and update the value of database details as per your usage, like db.driver, db.host, db.username and       db.password according to your installed mysql/postgresql admin user credentials.
 
